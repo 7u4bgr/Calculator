@@ -1,0 +1,25 @@
+.div{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    #name{
+        width: 192.5px;
+        height: 60px;
+    }
+    #surname{
+        width: 192.5px;
+        height: 60px;
+    }
+    .button{
+        width: 200px;
+        height: 60px;
+        font-size: 35px;
+    }
+    #h1{
+        color: chocolate;
+        font-size: 45px;
+        font-weight: bolder;
+    }
+}
